@@ -21,8 +21,6 @@
 
 - 💻 CS undergrad @ **University of Florida**
 - 🔐 Focused on **cybersecurity**, **AI**, and **tech policy**
-- 🧠 Building tools for lawyers with AI @ Legal Duel
-- 🌿 Front-end meets back-end enthusiast (React + Node + MongoDB)
 - 💬 Trilingual-ish: 🇺🇸 English, 🇻🇪 Spanish, 🇫🇷 un petit peu de français
 
 ---
