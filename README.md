@@ -24,13 +24,57 @@
 
 ---
 
-### 🛠️ Tech Toolbox
+## 🚀 Projects
 
-Languages: Python, C++, JavaScript
-Frameworks: React, React Native, Node.js, Express
-Databases: MongoDB, Firebase
-Tools: Git, GitHub, Postman, Figma
-Focus: NLP, Cybersecurity, Ethical AI
+### 🎵 [Music Playlist Explorer](https://github.com/heirynhr/Music-Playlist-Explorer)
+A web app to browse and interact with curated playlists. Features include liking playlists, viewing song details in a modal, and shuffling songs.  
+**Tech**: HTML, CSS, JavaScript, JSON  
+**Focus**: Frontend interactivity, dynamic rendering, UI design
+
+---
+
+### 🎬 [Flixster](https://github.com/heirynhr/flixster)
+Movie browsing app using the TMDb API to display films currently in theaters with a clean, responsive UI.  
+**Tech**: React, JavaScript, HTML/CSS  
+**Focus**: API integration, responsive design, React components
+
+---
+
+### 🛒 [Student Store](https://github.com/heirynhr/student-store)
+An online store for the College of CodePath. Built backend API with Node/Express and Prisma, and connected it to a React frontend.  
+**Tech**: Node.js, Express, Prisma, React  
+**Focus**: Full-stack development, database modeling, order handling
+
+---
+
+### 💬 [Kudos Board](https://github.com/heirynhr/kudosBoard)
+Team-based recognition board where users create cards on shared boards. Includes stats aggregation and user tracking.  
+**Tech**: React, Node.js, Express, Prisma  
+**Focus**: API interaction, state management, teamwork & collaboration
+
+---
+
+### ⚖️ Chronology Bot
+An NLP tool for extracting legal case timelines from text.  
+**Tech**: Python, NLP libraries  
+**Focus**: Natural Language Processing, legal tech
+
+---
+
+### 🌐 SHPE UF Website
+Led the full redesign of the SHPE UF chapter website with improved structure and design.  
+**Tech**: Semantic UI, JavaScript, MongoDB  
+**Focus**: UI/UX, leadership, full-stack web design
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**: Python, C++, JavaScript  
+**Frameworks**: React, React Native, Node.js, Express  
+**Databases**: MongoDB, Firebase  
+**Tools**: Git, GitHub, Postman, Figma  
+**Focus Areas**: NLP, Cybersecurity, Ethical AI
 
 
 <!--
