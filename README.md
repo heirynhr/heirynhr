@@ -40,20 +40,6 @@ Movie browsing app using the TMDb API to display films currently in theaters wit
 
 ---
 
-### 🛒 [Student Store](https://github.com/heirynhr/student-store)
-An online store for the College of CodePath. Built backend API with Node/Express and Prisma, and connected it to a React frontend.  
-**Tech**: Node.js, Express, Prisma, React  
-**Focus**: Full-stack development, database modeling, order handling
-
----
-
-### 💬 [Kudos Board](https://github.com/heirynhr/kudosBoard)
-Team-based recognition board where users create cards on shared boards. Includes stats aggregation and user tracking.  
-**Tech**: React, Node.js, Express, Prisma  
-**Focus**: API interaction, state management, teamwork & collaboration
-
----
-
 ### ⚖️ Chronology Bot
 An NLP tool for extracting legal case timelines from text.  
 **Tech**: Python, NLP libraries  
