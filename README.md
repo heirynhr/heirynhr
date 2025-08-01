@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Heiryn%20Hernandez-blue?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:heirynhr@gmail.com">
-<img src="https://img.shields.io/badge/Email-heirynhr%40ufl.edu-blue?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-heirynhr%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 </p>
 
