@@ -1,41 +1,40 @@
-## Hi!! I'm Heiryn 👋
-🎓 Sophomore at University of Florida, studying Computer Science.
 
-💻 Aspiring Cybersecurity Analyst and AI enthusiast.
+<!-- Typing Header -->
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&center=true&vCenter=true&width=500&color=1E90FF&lines=Hi+I'm+Heiryn+Hernandez+Rojas!;Computer+Science+Student+@+UF+🐊;Cybersecurity+%7C+AI+%7C+Creative+Tech+%7C+Public+Policy" alt="Typing SVG" />
+</h1>
 
-## 🚀 About Me  
-- 🌱 Currently diving deep into **AI, cybersecurity, and public policy**.  
-- 🛠️ Building innovative tools for the **legal sector** using **AI** and **NLP**.  
-- 🎯 Passionate about improving **national security** through AI-driven solutions.  
-- 💡 Dreaming of a future where **technology empowers communities** and advances **public policy** for a better world.  
+<!-- Links and Badges -->
+<p align="center">
+<a href="https://www.linkedin.com/in/heirynhernandez/">
+<img src="https://img.shields.io/badge/LinkedIn-Heiryn%20Hernandez-blue?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:heirynhr@ufl.edu">
+<img src="https://img.shields.io/badge/Email-heirynhr%40ufl.edu-blue?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=heirynhr&style=flat-square&color=1E90FF" alt="Profile Views" />
+</p>
 
-## 🛠️ Tech Stack  
+---
 
-### **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+### 👩🏽‍💻 About Me
 
-### **Libraries & Frameworks**  
-- **AI & Data Science:** scikit-learn, Pandas, NumPy, matplotlib, spaCy  
-- **Web Development:** React.js, Node.js (basic), MongoDB  
+- 💻 CS undergrad @ **University of Florida**
+- 🔐 Focused on **cybersecurity**, **AI**, and **tech policy**
+- 🧠 Building tools for lawyers with AI @ Legal Duel
+- 🌿 Front-end meets back-end enthusiast (React + Node + MongoDB)
+- 💬 Trilingual-ish: 🇺🇸 English, 🇻🇪 Spanish, 🇫🇷 un petit peu de français
 
-### **Development Tools**  
-- Jupyter Notebooks  
-- Google Colab  
+---
 
-## 🌟 Current Projects  
-- 🗂️ **Chronology Bot for Lawyers**  
-  - Leveraging **NLP** for **text extraction**, **sentiment analysis**, and **legal automation**.  
+### 🛠️ Tech Toolbox
 
-- 💻 **Social Media Platform**  
-  - Developed a **React.js + MongoDB** app with **SHPE UF** for community engagement.  
-
-## 🌈 Fun Facts  
-- 🎨 I’m the **Marketing Social Media Director** for SHPE UF.
-- 🧋 Can always be found with an **iced chai**.
-- 🌎 Fluent in **Spanish** and **English**, with a splash of **French**.  
-
+```yaml
+Languages: Python, C++, JavaScript
+Frameworks: React, React Native, Node.js, Express
+Databases: MongoDB, Firebase
+Tools: Git, GitHub, Postman, Figma
+Focus: NLP, Cybersecurity, Ethical AI
 ## 🌐 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/heirynhr)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heirynhr@gmail.com)  
