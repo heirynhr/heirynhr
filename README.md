@@ -6,10 +6,10 @@
 
 <!-- Links and Badges -->
 <p align="center">
-<a href="https://www.linkedin.com/in/heirynhernandez/">
+<a href="https://www.linkedin.com/in/heirynhr/">
 <img src="https://img.shields.io/badge/LinkedIn-Heiryn%20Hernandez-blue?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:heirynhr@ufl.edu">
+<a href="mailto:heirynhr@gmail.com">
 <img src="https://img.shields.io/badge/Email-heirynhr%40ufl.edu-blue?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=heirynhr&style=flat-square&color=1E90FF" alt="Profile Views" />
