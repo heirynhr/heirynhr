@@ -1,7 +1,7 @@
 
 <!-- Typing Header -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&center=true&vCenter=true&width=600&color=1E90FF&lines=Hi+I'm+Heiryn+Hernandez+Rojas!;Computer+Science+Student+@+UF+🐊;Cybersecurity+%7C+AI+%7C+Creative+Tech+%7C+Public+Policy" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&center=true&vCenter=true&width=600&color=1E90FF&lines=Hi+I'm+Heiryn+Hernandez+Rojas!;Computer+Science+Student+@+UF+🐊" alt="Typing SVG" />
 </h1>
 
 <!-- Links and Badges -->
@@ -27,7 +27,6 @@
 
 ### 🛠️ Tech Toolbox
 
-```yaml
 Languages: Python, C++, JavaScript
 Frameworks: React, React Native, Node.js, Express
 Databases: MongoDB, Firebase
