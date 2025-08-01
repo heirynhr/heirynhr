@@ -32,10 +32,9 @@ A full-stack educational platform that helps Spanish-speaking beginners learn to
 **Focus**: Inclusive tech education, AI integration, language accessibility  
 
 **Features:**
-- Interactive coding environment (Python or JavaScript)
+- Interactive coding environment (Python)
 - Real-time code execution in a sandboxed environment
 - AI-generated Spanish explanations for code output
-- Chatbot for Q&A in Spanish
 - Glossary of tech terms with English-Spanish translations and examples
 - Seamless language toggle between English and Spanish
 - User authentication and profile tracking
