@@ -1,7 +1,7 @@
 
 <!-- Typing Header -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&center=true&vCenter=true&width=600&color=1E90FF&lines=Hi+I'm+Heiryn+Hernandez+Rojas!;Computer+Science+Student+@+UF+🐊" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&center=true&vCenter=true&width=700&color=1E90FF&lines=Hi+I'm+Heiryn+Hernandez+Rojas!;Computer+Science+Student+@+UF+🐊" alt="Typing SVG" />
 </h1>
 
 <!-- Links and Badges -->
@@ -25,6 +25,23 @@
 ---
 
 ## 🚀 Projects
+
+### 🌐 [Codifica](https://github.com/FTLSunstack/FTLCapstone)
+A full-stack educational platform that helps Spanish-speaking beginners learn to code by removing the English-language barrier.  
+**Tech**: PostgreSQL, Express.js, React, Node.js  
+**Focus**: Inclusive tech education, AI integration, language accessibility  
+
+**Features:**
+- Interactive coding environment (Python or JavaScript)
+- Real-time code execution in a sandboxed environment
+- AI-generated Spanish explanations for code output
+- Chatbot for Q&A in Spanish
+- Glossary of tech terms with English-Spanish translations and examples
+- Seamless language toggle between English and Spanish
+- User authentication and profile tracking
+- Fully responsive UI
+
+---
 
 ### 🎵 [Music Playlist Explorer](https://github.com/heirynhr/Music-Playlist-Explorer)
 A web app to browse and interact with curated playlists. Features include liking playlists, viewing song details in a modal, and shuffling songs.  
