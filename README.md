@@ -12,7 +12,6 @@
 <a href="mailto:heirynhr@gmail.com">
 <img src="https://img.shields.io/badge/Email-heirynhr%40ufl.edu-blue?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=heirynhr&style=flat-square&color=1E90FF" alt="Profile Views" />
 </p>
 
 ---
