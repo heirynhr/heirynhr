@@ -20,7 +20,6 @@
 
 - 💻 CS undergrad @ **University of Florida**
 - 🔐 Focused on **cybersecurity**, **AI**, and **tech policy**
-- 💬 Trilingual-ish: 🇺🇸 English, 🇻🇪 Spanish, 🇫🇷 un petit peu de français
 
 ---
 
